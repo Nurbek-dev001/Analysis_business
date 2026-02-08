@@ -242,10 +242,4 @@ By end of MVP:
 
 ---
 
-## 👨‍💻 Author
-Created as commercial-grade MVP for Portfolio/Startup
 
----
-
-**Last Updated**: 2026-02-07  
-**Version**: 0.1.0-MVP
