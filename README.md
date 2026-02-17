@@ -1,8 +1,5 @@
 # 📊 Predictive Analytics Platform: Churn + Marketing + AI
 
-**Status**: MVP Development (Week 1-3)  
-**Goal**: Production-ready system for churn prediction, campaign response forecasting, and AI-driven business recommendations.
-
 ---
 
 ## 🎯 Business Problem
@@ -233,13 +230,6 @@ By end of MVP:
 
 ---
 
-## 🔗 Resources
 
-- **Datasets**: [Kaggle Churn](https://www.kaggle.com/datasets/), [E-commerce data](https://www.kaggle.com/datasets/)
-- **SHAP**: [Documentation](https://shap.readthedocs.io/)
-- **XGBoost**: [Guide](https://xgboost.readthedocs.io/)
-- **Streamlit**: [Docs](https://docs.streamlit.io/)
-
----
 
 
