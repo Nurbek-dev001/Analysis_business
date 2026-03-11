@@ -81,28 +81,7 @@ DATA → ETL → FEATURES → ML MODELS → BUSINESS METRICS → AI ASSISTANT �
 
 ---
 
-## 🗓️ MVP Timeline (2-3 weeks)
 
-### Week 1: Data + Base ML
-- **Day 1**: Problem formulation, data setup
-- **Day 2**: EDA (exploratory data analysis)
-- **Day 3**: Feature engineering
-- **Day 4**: Churn prediction model
-- **Day 5**: Marketing response model
-
-### Week 2: Business + AI
-- **Day 6**: Business metrics engine
-- **Day 7**: SHAP explainability
-- **Day 8**: LLM AI assistant
-- **Day 9**: Integration
-- **Day 10**: Streamlit dashboard
-
-### Week 3: Polish + Deployment
-- **Day 11-12**: Model optimization
-- **Day 13**: Deployment (FastAPI + Docker)
-- **Day 14**: Documentation & demo
-
----
 
 ## 🚀 Quick Start
 
@@ -229,6 +208,7 @@ By end of MVP:
 - ✅ Production-ready code
 
 ---
+
 
 
 
